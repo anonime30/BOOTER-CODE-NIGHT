@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\echat\\source\\repos\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D766B9E-CCAB-4D79-813C-0093E1F295D1}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\echat\\downloads\\booter code night.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D766B9E-CCAB-4D79-813C-0093E1F295D1}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\echat\\source\\repos\\winformsapp1\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0D766B9E-CCAB-4D79-813C-0093E1F295D1}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BOOTER CODE NIGHT.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\echat\\Downloads\\BOOTER CODE NIGHT.vb",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\BOOTER CODE NIGHT.vb",
+              "ToolTip": "C:\\Users\\echat\\Downloads\\BOOTER CODE NIGHT.vb [Conception]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\BOOTER CODE NIGHT.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-20T22:10:46.199Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\echat\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.vb",
+              "ToolTip": "C:\\Users\\echat\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Form1.vb [Conception]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-20T21:53:55.304Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

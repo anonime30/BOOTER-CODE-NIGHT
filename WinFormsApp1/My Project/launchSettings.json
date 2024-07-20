@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "WinFormsApp1": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\echat\\Downloads\\code night booter"
+    },
+    "Profil 1": {
+      "commandName": "Project"
+    },
+    "Profil 2": {
+      "commandName": "Executable"
+    }
+  }
+}
